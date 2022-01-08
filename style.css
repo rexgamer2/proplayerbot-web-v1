@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: #111A1A;
+  }
+  
+  .cover {
+    height: 400px;
+    background-image: url(https://media.discordapp.net/attachments/905509598478352384/929187610163834950/que_chido_jajaj.png?width=839&height=442);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+  }
+  
+  .card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+      0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  .boton {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem auto 0;
+    padding: 1rem 0 0.75rem 0;
+    width: 100%;
+    flex-wrap: wrap;
+    border-top: 4px solid white;
+  }
+  
+  .footer {
+    height: 60xp;
+    background: #111A1A;
+  }
+  
+  .copyright {
+    color: #ffffff;
+  }
+  
+  .developer {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem auto 0;
+    padding: 1rem 0 0.75rem 0;
+    width: 100%;
+    flex-wrap: wrap;
+    background: #404040;
+  }
+  
+  .flexbot {
+    color: white;
+  }
+  
+  .anuncio {
+    height: 60px;
+    background: #585858
+  }
